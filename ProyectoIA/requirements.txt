@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+nltk
+pytrends
+spacy
+gensim
+scikit-learn

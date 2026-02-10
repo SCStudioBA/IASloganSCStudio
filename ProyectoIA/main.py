@@ -1,8 +1,18 @@
 from fastapi import FastAPI
+from fastapi.middleware.cors import CORSMiddleware
 from pydantic import BaseModel
 from agentescstudio import AgenteSlogan
 
 app = FastAPI()
+
+# Configuración CORS para permitir peticiones desde cualquier origen (o especifica tu dominio)
+app.add_middleware(
+    CORSMiddleware,
+    allow_origins=["*"],  # Cambia "*" por el dominio de tu WordPress si quieres restringir
+    allow_credentials=True,
+    allow_methods=["*"],
+    allow_headers=["*"],
+)
 
 class SloganRequest(BaseModel):
     rubro: str

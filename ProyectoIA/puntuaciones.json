@@ -1,0 +1,134 @@
+[
+  {
+    "slogan": "Actualidad que te acompaña siempre",
+    "rubro": "paanderia",
+    "modo": "popular",
+    "puntuacion": 2
+  },
+  {
+    "slogan": "Tradición pensado para tu panadería",
+    "rubro": "panadería",
+    "modo": "semantico",
+    "puntuacion": 5
+  },
+  {
+    "slogan": "Pasión y tradición en cada hogaza",
+    "rubro": "panadería",
+    "modo": "diferenciado",
+    "puntuacion": 3
+  },
+  {
+    "slogan": "Petshop que cuida su bienestar",
+    "rubro": "petshop",
+    "modo": "popular",
+    "puntuacion": 3
+  },
+  {
+    "slogan": "Pelota pensado para tu petshop",
+    "rubro": "petshop",
+    "modo": "semantico",
+    "puntuacion": 1
+  },
+  {
+    "slogan": "Calidad y cariño para tu amigo fiel",
+    "rubro": "petshop",
+    "modo": "diferenciado",
+    "puntuacion": 5
+  },
+  {
+    "slogan": "Resistencia que motiva cada entrenamiento",
+    "rubro": "gym",
+    "modo": "popular",
+    "puntuacion": 4
+  },
+  {
+    "slogan": "Ejercicio que transforma tu gym",
+    "rubro": "gym",
+    "modo": "semantico",
+    "puntuacion": 3
+  },
+  {
+    "slogan": "Transforma tu cuerpo, cambia tu vida",
+    "rubro": "gym",
+    "modo": "diferenciado",
+    "puntuacion": 5
+  },
+  {
+    "slogan": "Floristería que expresa tus sentimientos",
+    "rubro": "floristería",
+    "modo": "popular",
+    "puntuacion": 5
+  },
+  {
+    "slogan": "Colores que acompañan tu floristería",
+    "rubro": "floristería",
+    "modo": "semantico",
+    "puntuacion": 5
+  },
+  {
+    "slogan": "Detalles que hacen la diferencia",
+    "rubro": "floristería",
+    "modo": "diferenciado",
+    "puntuacion": 5
+  },
+  {
+    "slogan": "Abarrotes que te brinda lo mejor",
+    "rubro": "almacén",
+    "modo": "popular",
+    "puntuacion": 3
+  },
+  {
+    "slogan": "Tradición que acompaña tu almacén",
+    "rubro": "almacén",
+    "modo": "semantico",
+    "puntuacion": 4
+  },
+  {
+    "slogan": "Atención personalizada para vos",
+    "rubro": "almacén",
+    "modo": "diferenciado",
+    "puntuacion": 5
+  },
+  {
+    "slogan": "Clases particulares que construye tu confianza",
+    "rubro": "clases particulares",
+    "modo": "popular",
+    "puntuacion": 3
+  },
+  {
+    "slogan": "Clases que transforman tu clases particulares",
+    "rubro": "clases particulares",
+    "modo": "semantico",
+    "puntuacion": 1
+  },
+  {
+    "slogan": "Aprende, crece y supera tus metas",
+    "rubro": "clases particulares",
+    "modo": "diferenciado",
+    "puntuacion": 5
+  },
+  {
+    "slogan": "Panaderia que despierta tu mañana",
+    "rubro": "panaderia",
+    "modo": "popular",
+    "puntuacion": 5
+  },
+  {
+    "slogan": "Conejo que inspira tu petshop",
+    "rubro": "petshop",
+    "modo": "semantico",
+    "puntuacion": 1
+  },
+  {
+    "slogan": "Panaderia que endulza tus momentos",
+    "rubro": "panaderia",
+    "modo": "popular",
+    "puntuacion": 5
+  },
+  {
+    "slogan": "Tradición pensado para tu panaderia",
+    "rubro": "panaderia",
+    "modo": "semantico",
+    "puntuacion": 3
+  }
+]

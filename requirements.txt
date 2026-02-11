@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+nltk
+pytrends
+spacy
+gensim
+scikit-learn==1.8.0
+joblib

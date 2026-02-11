@@ -4,4 +4,6 @@ nltk
 pytrends
 spacy
 gensim
-scikit-learn
+scikit-learn==1.8.0
+joblib
+

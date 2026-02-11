@@ -35,6 +35,8 @@ def generate_slogan(data: SloganRequest):
 @app.post("/submit_rating")
 def submit_rating(data: RatingRequest):
     agente.guardar_puntuacion(data.slogan, data.rubro, data.modo, data.puntuacion)
+    # Opcional: entrenar modelo tras recibir nueva puntuación
+    # agente.entrenar_modelo()
     return {"message": "Puntuación guardada"}
 
 @app.post("/train_model")
